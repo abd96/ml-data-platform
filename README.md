@@ -9,7 +9,7 @@ Build an **end-to-end data engineering platform** that:
 - Orchestrates workflows with **Airflow**
 - Serves features in real-time via **FastAPI**
 - Runs fully containerized with **Docker Compose**
-- (Optional) Adds monitoring with **Grafana + Prometheus**
+- Adds monitoring with **Grafana + Prometheus**
 
 ---
 
