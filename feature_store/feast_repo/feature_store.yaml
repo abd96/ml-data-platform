@@ -1,5 +1,5 @@
 project: my_ml_data_platform
-registry: /tmp/registry.db
+registry: data/registry.db
 provider: local
 online_store:
     path: data/online_store.db
