@@ -1,6 +1,6 @@
-# 🚀 ML-Ready Data Platform Project
+# ML-Ready Data Platform Project
 
-## 🎯 Project Goal
+## Project Goal
 
 Build an **end-to-end data engineering platform** that:
 - Ingests or generates simulated interaction data (user-item events)
@@ -13,7 +13,7 @@ Build an **end-to-end data engineering platform** that:
 
 ---
 
-## 🧱 Key Components
+## Key Components
 
 | Layer         | Tool/Tech Used                                | Purpose                                              |
 |---------------|------------------------------------------------|------------------------------------------------------|
