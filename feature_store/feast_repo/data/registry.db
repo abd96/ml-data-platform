@@ -1,19 +1,20 @@
 
-G
-'
-user_id"user_idJmy_ml_data_platform
-¬¿“À¸ÍÍ‡¬¿“À¸ÍÍ‡
 J
 *
 __dummy"
 __dummy_idJmy_ml_data_platform
-¬¿“Àà„Ó‡¬¿“Àà„Ó‡1"$f86dd3c4-487a-4c74-abf4-fddd036c063b*üÄ“Àø¼„¶2‰
-è
+Ô­˜ÀˆÛ¬«Ô­˜ÀˆÛ¬«
+G
+'
+user_id"user_idJmy_ml_data_platform
+Ô­˜À˜ °«Ô­˜À˜ °«1"$e814e505-3574-4248-9481-910fbf1d456a*å­˜À€ú®n2¨
+‡
 user_profilemy_ml_data_platformuser_id"
 click_count"
-days_since_last_active2€£:„event_timestampZ./data/driver_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢./data/driver_stats.parquet@
-üÄ“À§ßµüÄ“À§ßµR«
+days_since_last_active2€£:–event_timestampZ&$data/generated/user_features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢$data/generated/user_features.parquet@b
+user_id
+Ô­˜Àø÷²«Ô­˜Àø÷²«R«
 ¨
 ,feast.infra.online_stores.sqlite.SqliteTable"x
-T/home/abdul/Documents/ml-data-platform/feature_store/feast_repo/data/online_store.db my_ml_data_platform_user_profilebševent_timestampZ./data/driver_stats.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢./data/driver_stats.parquetªmy_ml_data_platformz;
-my_ml_data_platform$7832fdbe-15b1-4b91-bf6d-8f8ee5db342b
+T/home/abdul/Documents/ml-data-platform/feature_store/feast_repo/data/online_store.db my_ml_data_platform_user_profileb¬event_timestampZ&$data/generated/user_features.parquetŠ1feast.infra.offline_stores.file_source.FileSource¢$data/generated/user_features.parquetªmy_ml_data_platformz;
+my_ml_data_platform$07ce6985-d416-4760-aa78-4d5bb5135599
