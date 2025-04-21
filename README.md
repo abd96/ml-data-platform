@@ -25,3 +25,13 @@ Build an **end-to-end data engineering platform** that:
 | Serving       | **FastAPI**                                    | API to return user features to downstream services  |
 | Infrastructure| **Docker Compose**                             | Run all services locally in isolated containers     |
 | Monitoring    | Redis (for online store), PostgreSQL (Feast DB)| Track freshness, fast lookups, metadata, etc.       |
+
+
+---
+## How to run ?
+
+1. ```docker-compose down --volumes --remove-orphan``` (if rerunnig)
+
+2. ``` docker-compose run --rm airflow airflow db migrate``` 
+
+3. ``` docker-compose up``` 
