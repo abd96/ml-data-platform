@@ -25,37 +25,3 @@ Build an **end-to-end data engineering platform** that:
 | Serving       | **FastAPI**                                    | API to return user features to downstream services  |
 | Infrastructure| **Docker Compose**                             | Run all services locally in isolated containers     |
 | Monitoring    | Redis (for online store), PostgreSQL (Feast DB)| Track freshness, fast lookups, metadata, etc.       |
-
-
-
----
-
-## 🛠️ Next Steps
-
-1. **Connect Feast repo to Airflow DAG**
-   - Define sample features in `feature_defs.py`
-   - Materialize features with Airflow task
-
-2. **Generate synthetic data**
-   - Simulate interaction logs using Python and Faker
-   - Save to `data/raw/interactions.csv`
-
-3. **Write transformation logic**
-   - Use Pandas or Spark to extract meaningful features
-
-4. **Serve features via FastAPI**
-   - Create `/features/{user_id}` endpoint using Feast's online store
-
-5. **(Optional) Monitoring layer**
-   - Add Prometheus + Grafana for job and freshness tracking
-
----
-
-## 💡 Final Outcome
-
-You’ll have a complete, production-grade pipeline that demonstrates:
-- Data engineering and orchestration
-- Feature consistency across training and inference
-- Real-time APIs and infrastructure maturity
-- Portfolio-ready, highly relevant to ML/Data Engineer roles
-
