@@ -9,7 +9,7 @@ Build an **end-to-end data engineering platform** that:
 - Orchestrates workflows with **Airflow**
 - Serves features in real-time via **FastAPI**
 - Runs fully containerized with **Docker Compose**
-- (Optional) Adds monitoring with **Grafana + Prometheus**
+- Adds monitoring with **Grafana + Prometheus**
 
 ---
 
@@ -26,15 +26,7 @@ Build an **end-to-end data engineering platform** that:
 | Infrastructure| **Docker Compose**                             | Run all services locally in isolated containers     |
 | Monitoring    | Redis (for online store), PostgreSQL (Feast DB)| Track freshness, fast lookups, metadata, etc.       |
 
----
 
-## 📦 Current Progress
-
-- ✅ Docker Compose setup (Postgres, Redis, Airflow)
-- ✅ Local Feast setup and CLI verified
-- ✅ Airflow DAG scaffolded
-- ✅ Directory structure and starter code generated
-- ✅ PostgreSQL and Redis containers running cleanly
 
 ---
 
